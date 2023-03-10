@@ -6,6 +6,5 @@ I developed this package depending on another one which belong to Abdullah Al-im
 the problem which solved in this package. 
 
 # How it works
-1- Find the prefab called Arabic Text Solver.
-/n2- Put this prefab as a child of the meant input feild.
+Find the prefab called Arabic Text Solver, then Put this prefab as a child of the meant input feild.
 and Congrats !
