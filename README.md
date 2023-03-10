@@ -7,5 +7,5 @@ the problem which solved in this package.
 
 # How it works
 1- Find the prefab called Arabic Text Solver.
-2- Put this prefab as a child of the meant input feild.
+/n2- Put this prefab as a child of the meant input feild.
 and Congrats !
